@@ -33,7 +33,9 @@ Software Test Automation Certification
 ## 📫 How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/elif-cerav-a07494279/)
 - [Gmail](ceravelif@gmail.com)
+  
 -https://elifcerav.netlify.app/
+
 -https://medium.com/@ceravelif
 
 Feel free to check out the projects I've developed! Don't hesitate to contact me for any feedback or collaboration opportunities. Thank you!
